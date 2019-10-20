@@ -1,0 +1,2 @@
+# mnk
+MinimumNecessaryKnowledge
